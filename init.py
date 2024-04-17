@@ -1,1 +1,1 @@
-print("Fetch + merge")
+print("Pull")
