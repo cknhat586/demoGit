@@ -1,1 +1,1 @@
-print("Pull")
+print("Master")
